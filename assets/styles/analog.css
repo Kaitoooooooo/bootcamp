@@ -1,0 +1,43 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+.body{
+    /* width: 100%; */
+    border: 5px double black;
+    box-sizing: border-box;
+    padding: 150px;
+}
+.header{
+    text-align: center;
+    margin: 0;
+}
+.section{
+    text-align: center;
+}
+.section ul li{
+    display: inline-block;
+    /* font-size: larger; */
+    width: 100px;
+    padding: 0 20px 0 10px;
+    
+}
+.section hr{
+    margin: 20px;
+}
+.image{
+    padding: 0;
+    text-align: center;
+    width: .6;
+    height: .6;
+    
+}
+.image p{
+    text-align: center;
+    padding: 0 10px 0 10px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    
+    
+}
